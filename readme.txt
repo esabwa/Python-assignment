@@ -1,7 +1,7 @@
 Highridge Construction Company - Worker Payment Slips
 Module 1 Assignment - BAN 6420
 
-Date:05/10/2025 
+Date:05/06/2025 
 
 Contents of the ZIP Folder
 1. ge_payment_slips.py   → Python script
